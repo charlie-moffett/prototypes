@@ -1,3 +1,3 @@
 # prototypes
 
- ![Urban Flood Damage Risk Scores w/ Kriging](http://url/to/img.png)
+ ![Urban Flood Damage Risk Scores w/ Kriging](finalfire.png)
